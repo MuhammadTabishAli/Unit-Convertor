@@ -54,4 +54,4 @@ elif conversion_type == "Temperature":
         else:
             st.warning("Invalid conversion.")
 
-st.info("Built with ❤️ using Streamlit")
+st.info("Created by Muhammad Tabish Ali 😍")
